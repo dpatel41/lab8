@@ -43,8 +43,8 @@ def main():
 
         if choice == "exit":
             console.print(
-                "[bold red]You decide to leave the forest. "
-                "The adventure ends here.[/bold red]"
+                "[bold magenta]You decide to leave the forest. "
+                "The adventure ends here. Thank you for playing![/bold magenta]"
             )
             break
 
